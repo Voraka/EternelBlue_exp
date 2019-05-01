@@ -4,3 +4,7 @@
 
 
 [+]  ms17-010 exploit by execute shellcode,Put the raw(shellcode) in shellcode_payload file
+
+https://www.anquanke.com/post/id/86309   32bit 
+
+https://www.anquanke.com/post/id/86562   64bit
